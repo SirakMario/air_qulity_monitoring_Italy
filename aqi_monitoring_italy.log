@@ -1,68 +1,75 @@
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Current FME version: FME 2024.2.2.0 (20250114 - Build 24820 - WIN64)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|System Time: 20250209020414 UTC
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME_HOME is 'D:\Program Files\FME\'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Form (floating)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Permanent License.
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Machine host name is: siku
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|OS Locale Name     : en_US
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\amonra79.SIKU\Documents\Italy_airquality/'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'aqi_monitoring_italy.fmw'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.2.2.0'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 19045)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Platform: WIN64
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|System Status: 5.50 GB of disk space available in the FME temporary folder (C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wbrun_1739062946460_33756\fmetmp_38)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|System Status: 11.89 GB of physical memory available
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|System Status: 47.55 GB of virtual memory available
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|START - ProcessID: 34996, peak process memory usage: 43048 kB, current process memory usage: 43048 kB
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `D:\Program Files\FME\fme.exe' `C:\Users\amonra79.SIKU\Documents\Italy_airquality\wb-xlate-1739066653677_33756' `--FME_LAUNCH_VIEWER_APP' `WORKBENCH' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `61423' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `61388'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for formats are : D:\Program Files\FME\datasources;C:\Users\amonra79.SIKU\Documents\FME\Formats
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\Packages\24820-win64\transformers;D:\Program Files\FME\transformers;C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\FME Store\Transformers
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystems
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystemExceptions
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystemGridOverrides
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\amonra79.SIKU\Documents\FME\CsmapTransformationExceptions
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\amonra79.SIKU\Documents\FME\TransformerCategories
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\amonra79.SIKU\Documents\Italy_airquality'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wbrun_1739062946460_33756\fmetmp_38', set from environment variable `FME_TEMP'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\AMONRA~1.SIK\AppData\Local\Temp'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `D:\Program Files\FME\'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 35.66 GB
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 26.75 GB
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Creating writer for format: 
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Creating reader for format: 
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Using MultiWriter with keyword `MULTI_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Loaded module 'LogCount_func' from file 'D:\Program Files\FME\plugins/LogCount_func.dll'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20240212)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Loaded module 'VectorToRasterFactory' from file 'D:\Program Files\FME\plugins/VectorToRasterFactory.dll'
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|FME API version of module 'VectorToRasterFactory' matches current internal version (4.0 20240212)
-2025-02-09 05:04:14|   0.0|  0.0|INFORM|Emptying factory pipeline
-2025-02-09 05:04:14|   0.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
-2025-02-09 05:04:14|   0.0|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2025-02-09 05:04:14|   0.0|  0.0|STATS |aqi_stations_SHAPEFILE_3 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2025-02-09 05:04:14|   0.1|  0.1|STATS |Restoring 100 feature(s) from FME feature store file `C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wb-cache-aqi_monitoring_italy-zGtYtt\Main_Tester -1 10 fo 1 FAILED  2  997ddd03cb2ac91a633acd53e009d5eaaaf6aa83.ffs'
-2025-02-09 05:04:14|   0.4|  0.3|FATAL |The below feature caused the translation to be terminated
-2025-02-09 05:04:14|   0.4|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\amonra79.SIKU\Documents\Italy_airquality\aqi_monitoring_italy_log.ffs'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Feature Type: `FEATURE_TYPE'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Attribute(string: US-ASCII): `fme_geometry' has value `fme_point'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Attribute(string; UTF-8)   : `fme_rejection_code' has value `INVALID_VECTOR_GEOMETRY_DIMENSION'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Attribute(string: US-ASCII): `fme_type' has value `fme_point'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Coordinate System: `EPSG:32632'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Geometry Type: Point
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Name(UTF-8): `shapefile'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Coordinate Dimension: 2
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|(12.253247,44.443746)
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|===========================================================================
-2025-02-09 05:04:14|   0.4|  0.0|ERROR |NumericRasterizer_<Rejected> (TeeFactory): NumericRasterizer_<Rejected>: Termination Message: 'NumericRasterizer output a <Rejected> feature.  To continue translation when features are rejected, change 'Workspace Parameters' > Translation > 'Rejected Feature Handling' to 'Continue Translation''
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|Translation FAILED with 2 error(s) and 0 warning(s) (0 feature(s) output)
-2025-02-09 05:04:14|   0.4|  0.0|STATS |Stored 1 feature(s) to FME feature store file `C:\Users\amonra79.SIKU\Documents\Italy_airquality\aqi_monitoring_italy_log.ffs'
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|FME Session Duration: 0.6 seconds. (CPU: 0.3s user, 0.1s system)
-2025-02-09 05:04:14|   0.4|  0.0|INFORM|END - ProcessID: 34996, peak process memory usage: 92780 kB, current process memory usage: 92780 kB
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Current FME version: FME 2024.2.2.0 (20250114 - Build 24820 - WIN64)
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|System Time: 20250209230800 UTC
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME_HOME is 'D:\Program Files\FME\'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Form (floating)
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Permanent License.
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Machine host name is: siku
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|OS Locale Name     : en_US
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\amonra79.SIKU\Documents\Italy_airquality/'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'aqi_monitoring_italy.fmw'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.2.2.0'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 19045)
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Platform: WIN64
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|System Status: 8.30 GB of disk space available in the FME temporary folder (C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wbrun_1739141577039_22892\fmetmp_e)
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|System Status: 11.89 GB of physical memory available
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|System Status: 47.55 GB of virtual memory available
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|START - ProcessID: 12960, peak process memory usage: 43444 kB, current process memory usage: 43444 kB
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `D:\Program Files\FME\fme.exe' `C:\Users\amonra79.SIKU\Documents\Italy_airquality\wb-xlate-1739142479858_22892' `--FME_LAUNCH_VIEWER_APP' `WORKBENCH' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `62651' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `62634'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for formats are : D:\Program Files\FME\datasources;C:\Users\amonra79.SIKU\Documents\FME\Formats
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\Packages\24820-win64\transformers;D:\Program Files\FME\transformers;C:\Users\amonra79.SIKU\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystems
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystemExceptions
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\amonra79.SIKU\Documents\FME\CoordinateSystemGridOverrides
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\amonra79.SIKU\Documents\FME\CsmapTransformationExceptions
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\amonra79.SIKU\Documents\FME\TransformerCategories
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\amonra79.SIKU\Documents\Italy_airquality'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wbrun_1739141577039_22892\fmetmp_e', set from environment variable `FME_TEMP'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\AMONRA~1.SIK\AppData\Local\Temp'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `D:\Program Files\FME\'
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 35.66 GB
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 26.75 GB
+2025-02-10 02:08:00|   0.0|  0.0|INFORM|Creating writer for format: 
+2025-02-10 02:08:00|   0.1|  0.1|INFORM|Creating reader for format: 
+2025-02-10 02:08:00|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2025-02-10 02:08:00|   0.1|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2025-02-10 02:08:00|   0.1|  0.0|INFORM|Using MultiWriter with keyword `MULTI_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2025-02-10 02:08:00|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file 'D:\Program Files\FME\plugins/LogCount_func.dll'
+2025-02-10 02:08:00|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20240212)
+2025-02-10 02:08:01|   0.1|  0.0|INFORM|Loaded module 'SelectRaster_func' from file 'D:\Program Files\FME\plugins/SelectRaster_func.dll'
+2025-02-10 02:08:01|   0.1|  0.0|INFORM|FME API version of module 'SelectRaster_func' matches current internal version (4.0 20240212)
+2025-02-10 02:08:01|   0.1|  0.0|INFORM|Emptying factory pipeline
+2025-02-10 02:08:01|   0.1|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2025-02-10 02:08:01|   0.1|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2025-02-10 02:08:01|   0.1|  0.0|STATS |aqi_stations_SHAPEFILE_3 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2025-02-10 02:08:01|   0.1|  0.0|STATS |Restoring 1 feature(s) from FME feature store file `C:\Users\AMONRA~1.SIK\AppData\Local\Temp\wb-cache-aqi_monitoring_italy-gzDZHI\Main_NumericRasterizer -1 12 fo 0 RASTER  0  76491b22508e375789c7925e94f511012cded2b4.ffs'
+2025-02-10 02:08:01|   0.5|  0.4|STATS |RasterSelector (ExecuteFunctionFactory): Executed FME Functions on 1 input feature(s) -- 1 feature(s) completed and 0 feature(s) rejected
+2025-02-10 02:08:01|   0.5|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2025-02-10 02:08:01|   0.5|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|STATS |                            Features Read Summary
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|STATS |==============================================================================
+2025-02-10 02:08:01|   0.5|  0.0|STATS |Total Features Read                                                          0
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|STATS |                           Features Written Summary
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|STATS |==============================================================================
+2025-02-10 02:08:01|   0.5|  0.0|STATS |Total Features Written                                                       0
+2025-02-10 02:08:01|   0.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~                                                                             ~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~                                                                             ~-
+2025-02-10 02:08:01|   0.5|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2025-02-10 02:08:01|   0.5|  0.0|INFORM|Translation was SUCCESSFUL with 7 warning(s) (0 feature(s) output)
+2025-02-10 02:08:01|   0.5|  0.0|INFORM|FME Session Duration: 1 second. (CPU: 0.3s user, 0.2s system)
+2025-02-10 02:08:01|   0.5|  0.0|INFORM|END - ProcessID: 12960, peak process memory usage: 92652 kB, current process memory usage: 92652 kB
